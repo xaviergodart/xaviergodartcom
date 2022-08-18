@@ -12,6 +12,9 @@
         <link rel="apple-touch-icon" href="icon.png">
         <link rel="stylesheet" href="https://unpkg.com/normalize.css">
         <link rel="stylesheet" href="https://unpkg.com/concrete.css">
+        {% block rss %}
+          <link rel="alternate" type="application/atom+xml" title="atom" href="{{ get_url(path="atom.xml", trailing_slash=false) }}">
+        {% endblock %}
         <meta name="theme-color" content="#ffffff">
         <style>
             .small {

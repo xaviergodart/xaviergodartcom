@@ -1,6 +1,8 @@
 # The URL the site will be built for
 base_url = "https://www.xaviergodart.com"
 
+title = "Xavier Godart | Musician and Sofware Engineer from France"
+
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = false
 
