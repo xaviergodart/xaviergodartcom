@@ -20,8 +20,13 @@
             .quiet {
                 color: #8e8e8e;
             }
-            .mt-0 {
+            .mb-0 {
                 margin-bottom: 0;
+                padding-bottom: 0;
+            }
+            footer {
+                padding-bottom: 8rem;
+                text-align: left;
             }
             a.post {
                 text-decoration: none;
@@ -34,8 +39,8 @@
     </head>
     <body>
         <main>
-            <header>
-                <h1 class="mt-0">xavier godart</h1>
+            <header class="mb-0">
+                <h1 class="mb-0">xavier godart</h1>
                 <p class="small">musician & software engineer from <a href="https://www.google.fr/maps?hl=fr&q=Bordeaux,+France&ie=UTF8&hq&hnear=Bordeaux,+Gironde,+Aquitaine&gl=fr&t=h&z=12">Bordeaux, France</a>.</p>
                 <p>
                     <a href="/">blog</a> &#x2022;
@@ -43,9 +48,15 @@
                     <a href="/events">events</a> &#x2022;
                     <a href="/software-engineering">software engineering</a>
                 </p>
-                <p></p>
-                {% block content %} {% endblock %}
             </header>
+            {% block content %} {% endblock %}
+            <footer>
+                contact: 
+                <a href="mailto:xgodart@gmail.com">email</a> &#x2022;
+                <a href="https://www.instagram.com/xaviergodart/">instagram</a> &#x2022;
+                <a href="https://www.facebook.com/xavier.godart">facebook</a> &#x2022;
+                <a href="https://www.linkedin.com/in/xaviergodart/">linkedin</a>
+            </footer>
         </main>
         <script type="text/javascript">
             var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
