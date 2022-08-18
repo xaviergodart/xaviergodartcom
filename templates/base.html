@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="robots" content="index, follow" />
+        <meta name="author" content="Xavier Godart">
+        <meta name="language" content="en" />
+        <meta name="description" content="Xavier Godart | {% if page.title %}{{ page.title }} | {% endif %} Musician and Sofware Engineer from France">
+        <title>Xavier Godart | {% if page.title %}{{ page.title }} | {% endif %} Musician and Sofware Engineer from France</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="manifest" href="site.webmanifest">
+        <link rel="apple-touch-icon" href="icon.png">
+        <link rel="stylesheet" href="https://unpkg.com/normalize.css">
+        <link rel="stylesheet" href="https://unpkg.com/concrete.css">
+        <meta name="theme-color" content="#ffffff">
+        <style>
+            .small {
+                font-size: 0.8em;
+            }
+            .quiet {
+                color: #8e8e8e;
+            }
+            .mt-0 {
+                margin-bottom: 0;
+            }
+            a.post {
+                text-decoration: none;
+            }
+            a.post:hover {
+                text-decoration: underline;
+                text-decoration-thickness: .2rem;
+            }
+        </style>
+    </head>
+    <body>
+        <main>
+            <header>
+                <h1 class="mt-0">xavier godart</h1>
+                <p class="small">musician & software engineer from <a href="https://www.google.fr/maps?hl=fr&q=Bordeaux,+France&ie=UTF8&hq&hnear=Bordeaux,+Gironde,+Aquitaine&gl=fr&t=h&z=12">Bordeaux, France</a>.</p>
+                <p>
+                    <a href="/">blog</a> &#x2022;
+                    <a href="/music">music</a> &#x2022;
+                    <a href="/events">events</a> &#x2022;
+                    <a href="/software-engineering">software engineering</a>
+                </p>
+                <p></p>
+                {% block content %} {% endblock %}
+            </header>
+        </main>
+        <script type="text/javascript">
+            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+            </script>
+            <script type="text/javascript">
+            try {
+            var pageTracker = _gat._getTracker("UA-6812050-1");
+            pageTracker._trackPageview();
+            } catch(err) {}
+        </script>
+    </body>
+</html>
