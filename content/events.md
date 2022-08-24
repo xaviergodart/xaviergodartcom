@@ -7,7 +7,7 @@ template = "page.html"
 
 ### upcoming
 
-No upcomming events.
+- 2022-09-13 **Bordeaux, FR** (Mortuaire) <br/> <sup><sub>*@ One Percent w/ Carcinoid*</sup></sub>
 
 <hr/>
 
