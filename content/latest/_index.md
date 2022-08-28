@@ -1,3 +1,3 @@
 +++
-redirect_to="/blog/2022-07-31-new-birtawil-album-announcement"
+redirect_to="/blog/2022-08-29-new-birtawil-album-holl-is-out"
 +++
