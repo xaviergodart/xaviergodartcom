@@ -23,7 +23,7 @@ template = "page.html"
 
 
 <a href="mailto:birtawilmusic@gmail.com">email</a> &#x2022;
-<a href="https://birtawil.bandcamp.com/">bandcamp</a> &#x2022;
+<a href="/birtawil">streaming platforms</a> &#x2022;
 <a href="https://www.instagram.com/xaviergodart/">instagram</a> &#x2022;
 <a href="https://www.facebook.com/birtawilmusic/">facebook</a> &#x2022;
 <a href="https://www.youtube.com/channel/UCZxV1UJ_rviJ0alhXSOIbuQ">youtube</a> &#x2022;

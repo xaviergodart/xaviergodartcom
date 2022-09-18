@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+
+{% block header %}
+<header class="mb-0">
+  <a class="post" href="/">&larr; home</a>
+</header>
+{% endblock header %}
+
+{% block content %}
+<section>
+  <h2 class="mb-0">{{ page.title }}</h2>
+  {{ page.content | safe }}
+</section>
+{% endblock content %}
+
+{% block footer %}
+{% endblock footer %}

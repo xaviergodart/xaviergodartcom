@@ -17,6 +17,9 @@
         {% endblock %}
         <meta name="theme-color" content="#ffffff">
         <style>
+            .center {
+                text-align: center;
+            }
             .small {
                 font-size: 0.8em;
             }
@@ -38,10 +41,18 @@
                 text-decoration: underline;
                 text-decoration-thickness: .2rem;
             }
+            a.btn-full {
+                display: block;
+                width: 100%;
+            }
+            a.btn-full button {
+                width: 100%;
+            }
         </style>
     </head>
     <body>
         <main>
+            {% block header %}
             <header class="mb-0">
                 <h1 class="mb-0">xavier godart</h1>
                 <p class="small">musician & software engineer from <a href="https://www.google.fr/maps?hl=fr&q=Bordeaux,+France&ie=UTF8&hq&hnear=Bordeaux,+Gironde,+Aquitaine&gl=fr&t=h&z=12">Bordeaux, France</a>.</p>
@@ -52,7 +63,9 @@
                     <a href="/software-engineering">software engineering</a>
                 </p>
             </header>
+            {% endblock %}
             {% block content %} {% endblock %}
+            {% block footer %}
             <footer>
                 contact: 
                 <a href="mailto:xgodart@gmail.com">email</a> &#x2022;
@@ -60,6 +73,7 @@
                 <a href="https://www.facebook.com/xavier.godart">facebook</a> &#x2022;
                 <a href="https://www.linkedin.com/in/xaviergodart/">linkedin</a>
             </footer>
+            {% endblock %}
         </main>
         <script type="text/javascript">
             var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
