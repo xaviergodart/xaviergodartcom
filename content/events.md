@@ -7,7 +7,7 @@ template = "page.html"
 
 ### upcoming
 
-- 2022-10-22 **Bordeaux, FR** (Birtawil) <br/> <sup><sub>*TBC*</sup></sub>
+- 2022-10-22 **Bordeaux, FR** (Birtawil) <br/> <sup><sub>*@ Pourquoi Pas ? /w Ilúnae*</sup></sub>
 - 2022-11-30 **Bordeaux, FR** (Mortuaire) <br/> <sup><sub>*@ Athénée Libertaire w/ Iffernet, Ghettö*</sup></sub>
 
 <hr/>
