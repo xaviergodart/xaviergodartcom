@@ -7,7 +7,6 @@ template = "page.html"
 
 ### upcoming
 
-- 2022-10-22 **Bordeaux, FR** (Birtawil) <br/> <sup><sub>*@ Pourquoi Pas ? /w Ilúnae*</sup></sub>
 - 2022-11-30 **Bordeaux, FR** (Mortuaire) <br/> <sup><sub>*@ Athénée Libertaire w/ Iffernet, Ghettö*</sup></sub>
 
 <hr/>
@@ -16,6 +15,7 @@ template = "page.html"
 
 #### 2022
 
+- 2022-10-22 **Bordeaux, FR** (Birtawil) <br/> <sup><sub>*@ Pourquoi Pas ? /w Ilúnae*</sup></sub>
 - 2022-09-13 **Bordeaux, FR** (Mortuaire) <br/> <sup><sub>*@ One Percent w/ Carcinoid*</sup></sub>
 - 2022-07-01 **Bordeaux, FR** (Mortuaire) <br/> <sup><sub>*@ Athénée Libertaire w/ Meurtrières, Violent Shogun*</sup></sub>
 - 2022-04-21 **Tilburg, NL** (Year Of No Light) <br/> <sup><sub>*@ Roadburn Festival*</sup></sub>
