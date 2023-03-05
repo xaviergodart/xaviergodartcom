@@ -9,4 +9,6 @@ In addition to being a musician, I'm also a full-time software engineer since 20
 
 You can find more about my professional endeavors on [linkedin](https://www.linkedin.com/in/xaviergodart/).
 
+And I sometimes work on personal projects which are available on [github](https://github.com/xaviergodart).
+
 </section>
