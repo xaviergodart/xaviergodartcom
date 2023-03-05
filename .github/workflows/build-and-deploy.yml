@@ -14,11 +14,11 @@ jobs:
         BUILD_ONLY: true
 
     - name: deploy sftp
-      uses: wangyucode/sftp-upload-action@v2.0.2
+      uses: Creepios/sftp-action@v1.0.3
       with:
         host: ftp.cluster014.hosting.ovh.net
         username: ${{ secrets.ftp_username }}
         password: ${{ secrets.ftp_password }}
         forceUpload: true
-        localDir: 'public/'
-        remoteDir: '/home/xaviergo/www/'
+        localPath: 'public/'
+        remotePath: '/home/xaviergo/www/'
