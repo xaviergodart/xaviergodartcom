@@ -12,3 +12,13 @@ jobs:
       uses: shalzz/zola-deploy-action@v0.17.1
       env:
         BUILD_ONLY: true
+
+    - name: deploy sftp
+      uses: wangyucode/sftp-upload-action@v2.0.2
+      with:
+        host: ftp.cluster014.hosting.ovh.net
+        username: ${{ secrets.ftp_username }}
+        password: ${{ secrets.ftp_password }}
+        forceUpload: true
+        localDir: public
+        remoteDir: /home/xaviergo/www
