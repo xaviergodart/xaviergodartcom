@@ -21,4 +21,4 @@ jobs:
         password: ${{ secrets.ftp_password }}
         forceUpload: true
         localPath: 'public/'
-        remotePath: '/home/xaviergo/www/'
+        remotePath: '/home/xaviergo/www'
