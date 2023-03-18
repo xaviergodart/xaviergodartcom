@@ -18,7 +18,7 @@ I've been mainly working in the **music industry** for the last 10 years.
 
 <br/>
 
-<a href="mailto:xgodart@gmail.com">email</a> &#x2022; [github](https://github.com/xaviergodart) &#x2022; [linkedin](https://www.linkedin.com/in/xaviergodart/)
+[email](mailto:xgodart@gmail.com) &#x2022; [github](https://github.com/xaviergodart) &#x2022; [linkedin](https://www.linkedin.com/in/xaviergodart/)
 
 </section>
 
@@ -28,7 +28,7 @@ I've been mainly working in the **music industry** for the last 10 years.
 
   - 2021 - now | **Senior Backend Engineer @ [Deezer](https://www.deezer.com)** | Bordeaux
     - Worked in a team of ~30 people
-    - Launched 2 new apps: *Audiobooks by Deezer* and *Zen by Deezer*
+    - Launched 2 new apps: *Audiobooks by Deezer* (killed) and *[Zen by Deezer](https://zen-deezer.com/)*
     - *Tech stack: Go, Python, MySQL, Redis, GCP, Terraform, Jenkins*
 
 <br/>
