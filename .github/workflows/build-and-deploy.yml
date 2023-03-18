@@ -16,9 +16,8 @@ jobs:
     - name: deploy sftp
       uses: Creepios/sftp-action@v1.0.3
       with:
-        host: ftp.cluster014.hosting.ovh.net
+        host: ${{ secrets.ftp_host }}
         username: ${{ secrets.ftp_username }}
         password: ${{ secrets.ftp_password }}
-        forceUpload: true
         localPath: 'public/'
         remotePath: '/home/xaviergo/www'
