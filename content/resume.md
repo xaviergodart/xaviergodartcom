@@ -18,7 +18,7 @@ I've been mainly working in the **music industry** for the last 10 years.
 
 <br/>
 
-[github](https://github.com/xaviergodart) | [linkedin](https://www.linkedin.com/in/xaviergodart/).
+[github](https://github.com/xaviergodart) | [linkedin](https://www.linkedin.com/in/xaviergodart/)
 
 </section>
 
