@@ -44,7 +44,7 @@ template = "page.html"
 
 #### MORTUAIRE
 
-<img src="https://f4.bcbits.com/img/a1458752633_10.jpg"/>
+<img src="https://f4.bcbits.com/img/a3256744739_10.jpg"/>
 
 <p>Bass since 2021. Death Metal.</p>
 
