@@ -50,7 +50,7 @@ I've been mainly working in the **music industry** for the last 10 years.
 
   - 2013 - 2017 | **Full-Stack Engineer @ [Blitzr](https://www.bpifrance.fr/nos-actualites/la-plateforme-blitzr-plus-que-du-streaming-musical)** (bankrupted) | Bordeaux
     - Built a free music streaming service
-    - Built a collection of services dedicated the music industry (search engine, recommendations, data cleanup and enrichment...)
+    - Built a collection of services dedicated to the music industry (search engine, recommendations, data cleanup and enrichment...)
     - *Tech stack: PHP, Symfony, Python, OVHCloud, SaltStack, MySQL, Redis, Elasticsearch*
 
 <br/>
