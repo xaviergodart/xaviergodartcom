@@ -6,11 +6,13 @@ template = "resume.html"
 
 <section>
 
-I'm a **software engineer** since 2009, with a strong appetence for **backend development**.
+I'm a **software engineer** since 2009, with an appetence for **backend development** and a strong interest for **audio development**.
 
 I build **performant** and **scalable** applications using **Golang**, **PHP** or **Python**. And I'm inclined to keep learning.
 
 I enjoy thinking about **database schemas**, **caching strategies**, **async tasks** or managing **cloud infrastructure**.
+
+I also have an good understanding on how audio softwares work. I played with **C++**, **JUCE** and **Faust** for **digital signal processing (dsp) applications** and I'm inclined to learn more.
 
 During my experience, I had to **lead tech teams up to 10 developers**, and I was keen to encourage **communication** and **sharing knowledge**.
 
