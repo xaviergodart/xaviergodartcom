@@ -12,7 +12,7 @@ I build **performant** and **scalable** applications using **Golang**, **PHP** o
 
 I enjoy thinking about **database schemas**, **caching strategies**, **async tasks** or managing **cloud infrastructure**.
 
-I also have an good understanding on how audio softwares work. I played with **C++**, **JUCE** and **Faust** for **digital signal processing (dsp) applications** and I'm inclined to learn more.
+I also have an good understanding on how audio softwares work. I played with **C++**, **JUCE** and **Faust** for **digital signal processing (dsp)** and **midi** applications and I'm inclined to learn more.
 
 During my experience, I had to **lead tech teams up to 10 developers**, and I was keen to encourage **communication** and **sharing knowledge**.
 
@@ -35,13 +35,6 @@ I've been mainly working in the **music industry** for the last 10 years.
 
 <br/>
 
-  - 2017 - 2023 | **Web Development Instructor @ [IUT de Bayonne](https://www.iutbayonne.univ-pau.fr/but/informatique)**
-    - Teached web development to classes of ~20 students
-    - 2 weeks / year
-    - *Tech stack: PHP, Symfony, Vue.js*
-
-<br/>
-
   - 2017 - 2021 | **Senior Lead Engineer @ [Puremix](https://puremix.net/)** | Bordeaux
     - Lead a tech team of ~10 people
     - Launched a new brand of audio software: [Process.audio](https://process.audio/)
@@ -61,5 +54,13 @@ I've been mainly working in the **music industry** for the last 10 years.
 
   - 2008 - 2011 | **Full-Stack Developer @ [Clever Age](https://www.clever-age.com/)** | Bordeaux
 
+<br/>
+
+### related experiences
+
+  - 2017 - 2023 | **Web Development Instructor @ [IUT de Bayonne](https://www.iutbayonne.univ-pau.fr/but/informatique)**
+    - Teached web development to classes of ~20 students
+    - 2 weeks / year
+    - *Tech stack: PHP, Symfony, Vue.js*
 
 </section>
