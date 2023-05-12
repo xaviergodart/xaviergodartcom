@@ -7,11 +7,15 @@ template = "page.html"
 
 ### upcoming
 
-- 2023-05-11 **Bordeaux, FR** (Mortuaire) <br/> <sup><sub>*@ Krakatoa w/ Regarde Les Hommes Tomber*</sup></sub>
+No upcoming events.
 
 <hr/>
 
 ### past
+
+#### 2023
+
+- 2023-05-11 **Bordeaux, FR** (Mortuaire) <br/> <sup><sub>*@ Krakatoa w/ Regarde Les Hommes Tomber*</sup></sub>
 
 #### 2022
 
