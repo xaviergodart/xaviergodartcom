@@ -7,7 +7,7 @@ template = "page.html"
 
 ### upcoming
 
-- 2023-06-23 **Lisle, FR** (Year Of No Light) <br/> <sup><sub>*@ Lisle Sauvage*</sup></sub>
+- 2023-06-23 **Lisle, FR** (Year Of No Light) <br/> <sup><sub>*@ Lisle Sauvage Festival*</sup></sub>
 
 <hr/>
 
