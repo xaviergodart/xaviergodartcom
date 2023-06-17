@@ -105,7 +105,7 @@
             const audioCtx = (isWebKitAudio) ? new webkitAudioContext() : new AudioContext();
             window.addEventListener('load', _ => {
                 ambience.createDSP(audioCtx, 1024).then(dsp => dsp.connect(audioCtx.destination));
-                const finish = audioCtx.destination;
+                audioCtx.suspend();
             })
         </script>
         <script type="text/javascript">
