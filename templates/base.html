@@ -74,7 +74,11 @@
         <main>
             {% block header %}
             <header class="mb-0">
-                <h1 class="mb-0 inline">xavier godart</h1> <span class="small">musician & software engineer from <a href="https://www.google.fr/maps?hl=fr&q=Bordeaux,+France&ie=UTF8&hq&hnear=Bordeaux,+Gironde,+Aquitaine&gl=fr&t=h&z=12">Bordeaux, France</a>.</span>
+                <h1 class="mb-0 inline">
+                    <span onclick="audioCtx.resume(); this.style.display = 'none'; this.nextElementSibling.style.display='inline';" style="cursor: pointer;">▶</span>
+                    <span onclick="audioCtx.suspend(); this.style.display = 'none'; this.previousElementSibling.style.display='inline'" style="display: none; cursor: pointer;">◼</span>
+                    xavier godart
+                </h1> <span class="small">musician & software engineer from <a href="https://www.google.fr/maps?hl=fr&q=Bordeaux,+France&ie=UTF8&hq&hnear=Bordeaux,+Gironde,+Aquitaine&gl=fr&t=h&z=12">Bordeaux, France</a>.</span>
                 <p>
                     <a href="/">blog</a> &#x2022;
                     <a href="/music">music</a> &#x2022;
@@ -95,6 +99,15 @@
             </footer>
             {% endblock %}
         </main>
+        <script src="ambience.js"></script>
+        <script type="text/javascript">
+            const isWebKitAudio = (typeof (webkitAudioContext) !== "undefined");
+            const audioCtx = (isWebKitAudio) ? new webkitAudioContext() : new AudioContext();
+            window.addEventListener('load', _ => {
+                ambience.createDSP(audioCtx, 1024).then(dsp => dsp.connect(audioCtx.destination));
+                const finish = audioCtx.destination;
+            })
+        </script>
         <script type="text/javascript">
             var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
             document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
