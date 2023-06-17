@@ -17,8 +17,8 @@ I also have an good understanding on how audio softwares work. I played with **C
 Here's an example of a generative ambience patch written in **Faust** and compiled to **WebAssembly**.
 
 <p style="text-align: center;">
-  <button onclick="audioCtx.resume(); this.style.display = 'none'; this.nextElementSibling.style.display='inline';" style="width: 48px; height: 48px;">⏵︎</button>
-  <button onclick="audioCtx.suspend(); this.style.display = 'none'; this.previousElementSibling.style.display='inline'" style="width: 48px; height: 48px;display: none;">⏹︎</button>
+  <button onclick="audioCtx.resume(); this.style.display = 'none'; this.nextElementSibling.style.display='inline';" style="width: 48px; height: 48px;">▶</button>
+  <button onclick="audioCtx.suspend(); this.style.display = 'none'; this.previousElementSibling.style.display='inline'" style="width: 48px; height: 48px;display: none;">◼</button>
 </p>
 
 During my experience, I had to **lead tech teams up to 10 developers**, and I was keen to encourage **communication** and **sharing knowledge**.
