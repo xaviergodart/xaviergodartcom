@@ -5,17 +5,19 @@ template = "page.html"
 +++
 <section>
 
+<sup>*Bands or projects for each date are between parenthesis `()`.<br/>Projects with `*` are fill-ins, one-off collabs or ephemeral projects.*</sup>
+
 ### upcoming
 
-- 2023-06-23 **Lisle, FR** (Year Of No Light) <br/> <sup><sub>*@ Lisle Sauvage Festival*</sup></sub>
 - 2023-07-11 **Bordeaux, FR** (Mortuaire) <br/> <sup><sub>*@ L'Antidote w/ Prowl*</sup></sub>
 
-<hr/>
+<br/>
 
 ### past
 
 #### 2023
 
+- 2023-06-23 **Lisle, FR** (Year Of No Light*) <br/> <sup><sub>*@ Lisle Sauvage Festival*</sup></sub>
 - 2023-05-11 **Bordeaux, FR** (Mortuaire) <br/> <sup><sub>*@ Krakatoa w/ Regarde Les Hommes Tomber*</sup></sub>
 
 #### 2022
@@ -24,8 +26,8 @@ template = "page.html"
 - 2022-10-22 **Bordeaux, FR** (Birtawil) <br/> <sup><sub>*@ Pourquoi Pas ? w/ Ilúnae*</sup></sub>
 - 2022-09-13 **Bordeaux, FR** (Mortuaire) <br/> <sup><sub>*@ One Percent w/ Carcinoid*</sup></sub>
 - 2022-07-01 **Bordeaux, FR** (Mortuaire) <br/> <sup><sub>*@ Athénée Libertaire w/ Meurtrières, Violent Shogun*</sup></sub>
-- 2022-04-21 **Tilburg, NL** (Year Of No Light) <br/> <sup><sub>*@ Roadburn Festival*</sup></sub>
-- 2022-03-18 **Bordeaux, FR** (Year Of No Light) <br/> <sup><sub>*@ Krakatoa w/ BRUIT ≤*</sup></sub>
+- 2022-04-21 **Tilburg, NL** (Year Of No Light*) <br/> <sup><sub>*@ Roadburn Festival*</sup></sub>
+- 2022-03-18 **Bordeaux, FR** (Year Of No Light*) <br/> <sup><sub>*@ Krakatoa w/ BRUIT ≤*</sup></sub>
 
 #### 2021
 
@@ -42,7 +44,7 @@ template = "page.html"
 - 2019-10-24 **Bordeaux, FR** (Birtawil) <br/> <sup><sub>*@ La Voûte w/ Louis Jucker ft. Coilguns*</sup></sub>
 - 2019-09-21 **Bordeaux, FR** (Spectrale) <br/> <sup><sub>*@ VOID w/ Ainez, Endless Floods*</sup></sub>
 - 2019-09-07 **Audierne, FR** (Spectrale) <br/> <sup><sub>*@ Et Il N'y Aura Plus De Nuit 2019*</sup></sub>
-- 2019-06-27 **Bordeaux, FR** (Mike Brat) <br/> <sup><sub>*@ La Voûte w/ Barnabé Joubert + .final*</sup></sub>
+- 2019-06-27 **Bordeaux, FR** (Mike Brat*) <br/> <sup><sub>*@ La Voûte w/ Barnabé Joubert + .final*</sup></sub>
 - 2019-04-22 **Liège, BEL** (Spectrale) <br/> <sup><sub>*@ La Zone w/ Woods of Yore*</sup></sub>
 - 2019-04-21 **Münster, GER** (Spectrale) <br/> <sup><sub>*@ Culthe Fest 2019*</sup></sub>
 - 2019-04-20 **Münster, GER** (Spectrale) <br/> <sup><sub>*@ Culthe Fest 2019*</sup></sub>
@@ -52,23 +54,23 @@ template = "page.html"
 #### 2018
 
 - 2018-11-10 **Bordeaux, FR** (Birtawil) <br/> <sup><sub>*@ L'Antidote w/ Endless Flood + Hidden in Eternity*</sup></sub>
-- 2018-10-26 **Bordeaux, FR** (Mike Brat) <br/> <sup><sub>*@ L'Antidote w/ Sam haven*</sup></sub>
+- 2018-10-26 **Bordeaux, FR** (Mike Brat*) <br/> <sup><sub>*@ L'Antidote w/ Sam haven*</sup></sub>
 - 2018-09-29 **Auzas, FR** (Spectrale) <br/> <sup><sub>*@ L'Homme sauvage #2*</sup></sub>
 - 2018-09-28 **Porc-de-Bouc, FR** (Spectrale) <br/> <sup><sub>*@ Centre d'arts Fernand Léger*</sup></sub>
-- 2018-09-18 **Bordeaux, FR** (Mike Brat) <br/> <sup><sub>*@ Le Void w/ Trash Knife + Naatlo Sutila + Mylen*</sup></sub>
+- 2018-09-18 **Bordeaux, FR** (Mike Brat*) <br/> <sup><sub>*@ Le Void w/ Trash Knife + Naatlo Sutila + Mylen*</sup></sub>
 - 2018-07-04 **Bordeaux, FR** (Spectrale) <br/> <sup><sub>*@ I.Boat w/ Emma Ruth Rundle*</sup></sub>
 - 2018-05-19 **Andernos-les-Bains, FR** (Spectrale) <br/> <sup><sub>*@ La Byrinthe*</sup></sub>
 - 2018-05-18 **Bordeaux, FR** (Birtawil) <br/> <sup><sub>*@ Les Vivres de l'Art w/ Guybrush + Andrea Bruera*</sup></sub>
 - 2018-05-06 **Querrien, FR** (Spectrale) <br/> <sup><sub>*@ Les Feux de Beltane*</sup></sub>
 - 2018-04-28 **Paris, FR** (Birtawil) <br/> <sup><sub>*@ Crypte du Martyrium w/ Ujjaya + Yves Mesnil*</sup></sub>
 - 2018-02-03 **Bordeaux, FR** (Birtawil) <br/> <sup><sub>*@ Espace 29 - Dossier Bordeaux 2017*</sup></sub>
-- 2018-01-04 **Bordeaux, FR** (Suspicion d'ébola) <br/> <sup><sub>*@ L'Antidote w/ ASCH-LAUW + DEAD TOYS + BIZNESS DE LA MISERE*</sup></sub>
+- 2018-01-04 **Bordeaux, FR** (Suspicion d'ébola*) <br/> <sup><sub>*@ L'Antidote w/ ASCH-LAUW + DEAD TOYS + BIZNESS DE LA MISERE*</sup></sub>
 
 
 #### 2017
 
 - 2017-11-22 **Bordeaux, FR** (Birtawil) <br/> <sup><sub>*@ La Voûte w/ Amundsen + DuPlafond*</sup></sub>
-- 2017-10-14 **Bordeaux, FR** (YesYes) <br/> <sup><sub>*@ L'Antidote w/ BizMiz + Austern*</sup></sub>
+- 2017-10-14 **Bordeaux, FR** (YesYes*) <br/> <sup><sub>*@ L'Antidote w/ BizMiz + Austern*</sup></sub>
 - 2017-09-30 **Bordeaux, FR** (Birtawil) <br/> <sup><sub>*@ L'Antidote w/ Quassime, Kotz*</sup></sub>
 - 2017-09-16 **Bordeaux, FR** (Birtawil) <br/> <sup><sub>*@ El Chicho w/ FVNERALS + First Temple Of The Atom*</sup></sub>
 - 2017-06-10 **Bordeaux, FR** (Birtawil) <br/> <sup><sub>*@ Espace 29, Somnium #2*</sup></sub>
