@@ -9,7 +9,7 @@ template = "page.html"
 
 ### upcoming
 
-- 2023-07-11 **Bordeaux, FR** (Mortuaire) <br/> <sup><sub>*@ L'Antidote w/ Prowl*</sup></sub>
+No upcoming events.
 
 <br/>
 
@@ -17,6 +17,7 @@ template = "page.html"
 
 #### 2023
 
+- 2023-07-11 **Bordeaux, FR** (Mortuaire) <br/> <sup><sub>*@ L'Antidote w/ Prowl*</sup></sub>
 - 2023-06-23 **Lisle, FR** (Year Of No Light*) <br/> <sup><sub>*@ Lisle Sauvage Festival*</sup></sub>
 - 2023-05-11 **Bordeaux, FR** (Mortuaire) <br/> <sup><sub>*@ Krakatoa w/ Regarde Les Hommes Tomber*</sup></sub>
 
