@@ -9,7 +9,7 @@ template = "page.html"
 
 ### upcoming
 
-No upcoming events.
+- 2023-09-13 **Le Haillan, FR** (Mortuaire) <br/> <sup><sub>*@ Salem w/ Altars, Fossilization*</sup></sub>
 
 <br/>
 
