@@ -65,7 +65,7 @@ template = "page.html"
 
 #### LAVA
 
-<img src="https://f4.bcbits.com/img/a4200119371_10.jpg"/>
+<img src="https://f4.bcbits.com/img/a1781832699_10.jpg"/>
 
 <p>Guitar & synths since 2019. Experimental, ambient, psychedelic.</p>
 
