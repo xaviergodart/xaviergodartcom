@@ -16,6 +16,7 @@
           <link rel="alternate" type="application/atom+xml" title="atom" href="{{ get_url(path="atom.xml", trailing_slash=false) }}">
         {% endblock %}
         <meta name="theme-color" content="#ffffff">
+        <script async src="https://analytics.umami.is/script.js" data-website-id="95b3a3f4-9a70-4ecf-a50b-0f3f4525c2f6"></script>
         <style>
             * {
                 text-decoration-thickness: .1rem;
@@ -107,16 +108,6 @@
                 ambience.createDSP(audioCtx, 1024).then(dsp => dsp.connect(audioCtx.destination));
                 audioCtx.suspend();
             })
-        </script>
-        <script type="text/javascript">
-            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-            </script>
-            <script type="text/javascript">
-            try {
-            var pageTracker = _gat._getTracker("UA-6812050-1");
-            pageTracker._trackPageview();
-            } catch(err) {}
         </script>
     </body>
 </html>
