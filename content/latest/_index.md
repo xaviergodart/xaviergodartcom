@@ -1,3 +1,3 @@
 +++
-redirect_to="/blog/2023-04-07-mortuaire-debut-available-in-lp"
+redirect_to="/blog/2023-08-23-generative-music-with-faust-playground-1-meetup"
 +++
