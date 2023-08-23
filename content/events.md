@@ -5,11 +5,12 @@ template = "page.html"
 +++
 <section>
 
-<sup>*Bands or projects for each date are between parenthesis `()`.<br/>Projects with `*` are fill-ins, one-off collabs or ephemeral projects.*</sup>
+<sup>*Bands, projects or talks for each date are between parenthesis `()`.<br/>Projects with `*` are fill-ins, one-off collabs or ephemeral projects.*</sup>
 
 ### upcoming
 
 - 2023-09-13 **Le Haillan, FR** (Mortuaire) <br/> <sup><sub>*@ Salem w/ Altars, Fossilization*</sup></sub>
+- 2023-09-14 **Bordeaux, FR** (Talk) <br/> <sup><sub>*@ Deezer Bordeaux / [playground #1 meetup](@/blog/20230823.md)*</sup></sub>
 
 <br/>
 
