@@ -37,7 +37,7 @@ I've been mainly working in the **music industry** for the last 10 years.
 
   - 2021 - now | **Senior Backend Engineer @ [Deezer](https://www.deezer.com)** | Bordeaux
     - Worked in a team of ~30 people
-    - Launched 2 new apps: *Audiobooks by Deezer* (killed) and *[Zen by Deezer](https://zen-deezer.com/)*
+    - Launched 2 new apps: *Audiobooks by Deezer* (abandoned) and *[Zen by Deezer](https://zen-deezer.com/)*
     - *Tech stack: Go, Python, MySQL, Redis, GCP, Terraform, Jenkins*
 
 <br/>
