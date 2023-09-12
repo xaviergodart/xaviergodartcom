@@ -11,6 +11,7 @@
 	<link rel="stylesheet" href="css/layout.css" />
 	<link rel="stylesheet" href="plugin/customcontrols/style.css">
 
+	<link rel="stylesheet" href="plugin/reveal-pointer/pointer.css" />
 
 
     <script defer src="dist/fontawesome/all.min.js"></script>
@@ -120,7 +121,12 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Steveporcaro_toto.jpg" alt="modular synth|300" style="width: 300px; object-fit: fill">
 
 <sub><sup>https://www.flickr.com/photos/jamesthephotographer/120916737/</sup></sub>
-</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+</div>
+
+<aside class="notes"><p>Années 60
+Usage dès les années 70 en conjonction avec des delays à bandes
+Modules algorithme depuis l&#39;avènement du numérique</p>
+</aside></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
 <div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
 
 ### VCV Rack
@@ -150,11 +156,12 @@ https://vcvrack.com/
 <div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
 
 ### Zen by Deezer
+#### Expérience visuelle et sonore
 
-TODO: image/video
+<img src="serenity-break.png" alt="" style="object-fit: scale-down">
 </div>
 
-<aside class="notes"><p>Expérience sensorielle (sonore et auditive)</p>
+<aside class="notes"><p>Expérience sensorielle (visuelle et sonore)</p>
 </aside></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
 <div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
 
@@ -192,19 +199,23 @@ C++ / Javascript / Python / Swift / Java / etc...
 - Transpileur vers C++
 - Performant
 - Cible de multiple plateformes
-- Code très concis
 </div>
 
-<aside class="notes"><ul>
-<li>RaspberryPI<ul>
-<li>Mobile (iOS, Android)</li>
-<li>Bela / Electro-Smith Daisy</li>
-<li>Hardware custom</li>
-<li>unity</li>
-<li>unreal engine</li>
-<li>texte, versionnable via git</li>
+<aside class="notes"><p>Français (Lyon), mature, depuis 2002</p>
+<p>Avantages:</p>
+<ul>
+<li>code concis</li>
+<li>versionable</li>
 </ul>
-</li>
+<p>Platformes:
+     - RaspberryPI
+     - Mobile (iOS, Android)
+     - Bela / Electro-Smith Daisy
+     - Hardware custom
+     - unity
+     - unreal engine</p>
+<ul>
+<li>texte, versionnable via git</li>
 </ul>
 </aside></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
 <div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
@@ -252,7 +263,7 @@ C++ / Javascript / Python / Swift / Java / etc...
 	<script src="plugin/chart/plugin.js"></script>
 	<script src="plugin/menu/menu.js"></script>
 	<script src="plugin/customcontrols/plugin.js"></script>
-	<script src="plugin/elapsed-time-bar/elapsed-time-bar.js"></script>
+	<script src="plugin/reveal-pointer/pointer.js"></script>
 
     <script>
       function extend() {
@@ -309,7 +320,7 @@ C++ / Javascript / Python / Swift / Java / etc...
 		  RevealChart,
 		  RevealCustomControls,
 		  RevealMenu,
-		  ElapsedTimeBar
+	      RevealPointer,
         ],
 
 
@@ -332,6 +343,11 @@ C++ / Javascript / Python / Swift / Java / etc...
 
 		customcontrols: {
 			controls: [
+				{id: 'toggle-overview',
+				title: 'Toggle overview (O)',
+				icon: '<i class="fa fa-th"></i>',
+				action: 'Reveal.toggleOverview();'
+				},
 			]
 		},
 		menu: {
