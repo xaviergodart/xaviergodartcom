@@ -9,7 +9,7 @@ template = "page.html"
 
 ### upcoming
 
-- 2023-11-01 **Bordeaux, FR** (Mortuaire) <br/> <sup><sub>*@ L'Antidote w/ Sordide*</sup></sub>
+No upcoming events.
 
 <br/>
 
@@ -17,6 +17,7 @@ template = "page.html"
 
 #### 2023
 
+- 2023-11-01 **Bordeaux, FR** (Mortuaire) <br/> <sup><sub>*@ L'Antidote w/ Sordide*</sup></sub>
 - 2023-09-14 **Bordeaux, FR** (Talk) <br/> <sup><sub>*@ Deezer Bordeaux / [playground #1 meetup](@/blog/20230823.md)*</sup></sub>
 - 2023-09-13 **Le Haillan, FR** (Mortuaire) <br/> <sup><sub>*@ Salem w/ Altars, Fossilization*</sup></sub>
 - 2023-07-11 **Bordeaux, FR** (Mortuaire) <br/> <sup><sub>*@ L'Antidote w/ Prowl*</sup></sub>
