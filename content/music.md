@@ -65,7 +65,7 @@ template = "page.html"
 
 #### LAVA
 
-<img src="https://f4.bcbits.com/img/a1781832699_10.jpg"/>
+<img src="https://f4.bcbits.com/img/a3432592856_10.jpg"/>
 
 <p>Guitar & synths since 2019. Experimental, ambient, psychedelic.</p>
 
@@ -73,6 +73,7 @@ template = "page.html"
 
 ##### main releases
 
+- <a href="https://lavabdx.bandcamp.com/album/phase-iv">Phase IV (2023)</a>
 - <a href="https://lavabdx.bandcamp.com/album/phase-iii">Phase III (2021)</a>
 - <a href="https://lavabdx.bandcamp.com/album/phase-ii">Phase II (2021)</a>
 - <a href="https://lavabdx.bandcamp.com/album/phase-i">Phase I (2020)</a>

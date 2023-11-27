@@ -1,3 +1,3 @@
 +++
-redirect_to="/blog/2023-08-23-generative-music-with-faust-playground-1-meetup"
+redirect_to="/blog/2023-11-27-new-lava-ep-phase-iv"
 +++
