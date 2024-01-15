@@ -9,7 +9,7 @@ template = "page.html"
 
 ### upcoming
 
-No upcoming events.
+- 2024-03-02 **Le Haillan, FR** (Mortuaire) <br/> <sup><sub>*@ Salem w/ Sorcerer, Cohesion, Unsafe*</sup></sub>
 
 <br/>
 
