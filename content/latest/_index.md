@@ -1,3 +1,3 @@
 +++
-redirect_to="/blog/2023-11-27-new-lava-ep-phase-iv"
+redirect_to="/blog/2024-02-03-bandcamp-alternatives-in-2024"
 +++
