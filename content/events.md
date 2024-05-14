@@ -9,7 +9,7 @@ template = "page.html"
 
 ### upcoming
 
-No upcoming events.
+- 2024-06-12 **Le Haillan, FR** (Mortuaire) <br/> <sup><sub>*@ Salem w/ Fange, Contre-Feux, The Veil Of Uncertainty*</sup></sub>
 
 <br/>
 
