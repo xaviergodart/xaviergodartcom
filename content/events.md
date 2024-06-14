@@ -9,7 +9,8 @@ template = "page.html"
 
 ### upcoming
 
-- 2024-06-12 **Le Haillan, FR** (Mortuaire) <br/> <sup><sub>*@ Salem w/ Fange, Contre-Feux, The Veil Of Uncertainty*</sup></sub>
+- 2024-08-23 **Braud-et-Saint-Louis, FR** (Year Of No Light*) <br/> <sup><sub>*@ Black Bass Festival 2024*</sub></sup>
+- 2024-08-24 **Maastricht, NL** (Year Of No Light*) <br/> <sup><sub>*@ Pelagic Fest 2024*</sub></sup>
 
 <br/>
 
@@ -17,6 +18,7 @@ template = "page.html"
 
 #### 2024
 
+- 2024-06-12 **Le Haillan, FR** (Mortuaire) <br/> <sup><sub>*@ Salem w/ Fange, Contre-Feux, The Veil Of Uncertainty*</sup></sub>
 - 2024-03-02 **Le Haillan, FR** (Mortuaire) <br/> <sup><sub>*@ Salem w/ Sorcerer, Cohesion, Unsafe*</sup></sub>
 
 #### 2023
