@@ -4,13 +4,14 @@ slug = "resume"
 template = "resume.html"
 +++
 
-<section>
+<section style="padding-bottom: 0px;">
 
 <ul style="padding-bottom: 4rem !important;">
   <li>🧔 38-years-old</li>
   <li>📍 Bordeaux, France</li>
-  <li>📧 xgodart@gmail.com</li>
-  <li>🌐 french (native)<br/>
+  <li>📧 <a style="text-decoration: none;" href="mailto:xgodart@gmail.com">xgodart@gmail.com</a></li>
+  <li>🌐 <a style="text-decoration: none;" href="https://www.xaviergodart.com">xaviergodart.com</a></li>
+  <li>🌍 french (native)<br/>
       <span style="visibility: hidden;">🌐</span> english (written & spoken)<br/>
       <span style="visibility: hidden;">🌐</span> spanish (spoken)</li>
 </ul>
