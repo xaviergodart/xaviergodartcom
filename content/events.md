@@ -9,7 +9,8 @@ template = "page.html"
 
 ### upcoming
 
-No upcoming events.
+- 2024-10-11 **Tulle, FR** (Year Of No Light*) <br/> <sup><sub>*@ Des Lendemains Qui Chantent w/ Lizzard, Klone*</sub></sup>
+- 2024-10-12 **Montpellier** (Year Of No Light*) <br/> <sup><sub>*@ Victoire 2 w/ Violence, Citrus, Cavalerie*</sub></sup>
 
 <br/>
 
