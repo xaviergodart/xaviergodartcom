@@ -9,8 +9,7 @@ template = "page.html"
 
 ### upcoming
 
-- 2024-10-11 **Tulle, FR** (Year Of No Light*) <br/> <sup><sub>*@ Des Lendemains Qui Chantent w/ Lizzard, Klone*</sub></sup>
-- 2024-10-12 **Montpellier, FR** (Year Of No Light*) <br/> <sup><sub>*@ Victoire 2 w/ Violence, Citrus, Cavalerie*</sub></sup>
+No upcoming events.
 
 <br/>
 
@@ -18,6 +17,8 @@ template = "page.html"
 
 #### 2024
 
+- 2024-10-12 **Montpellier, FR** (Year Of No Light*) <br/> <sup><sub>*@ Victoire 2 w/ Violence, Citrus, Cavalerie*</sub></sup>
+- 2024-10-11 **Tulle, FR** (Year Of No Light*) <br/> <sup><sub>*@ Des Lendemains Qui Chantent w/ Lizzard, Klone*</sub></sup>
 - 2024-08-24 **Maastricht, NL** (Year Of No Light*) <br/> <sup><sub>*@ Pelagic Fest 2024*</sub></sup>
 - 2024-08-23 **Braud-et-Saint-Louis, FR** (Year Of No Light*) <br/> <sup><sub>*@ Black Bass Festival 2024*</sub></sup>
 - 2024-06-12 **Le Haillan, FR** (Mortuaire) <br/> <sup><sub>*@ Salem w/ Fange, Contre-Feux, The Veil Of Uncertainty*</sup></sub>
