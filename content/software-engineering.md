@@ -13,4 +13,6 @@ You can find more about my professional endeavors on [linkedin](https://www.link
 
 And I sometimes work on personal projects which are available on [github](https://github.com/xaviergodart).
 
+I create a collection of tools for making music in the command line under the name of [emprcl](https://empr.cl/).
+
 </section>
