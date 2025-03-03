@@ -44,7 +44,7 @@ template = "page.html"
 
 #### MORTUAIRE
 
-<img src="https://f4.bcbits.com/img/a3256744739_10.jpg"/>
+<img src="https://f4.bcbits.com/img/a1910147101_10.jpg"/>
 
 <p>Bass since 2021. Death Metal.</p>
 
@@ -56,6 +56,7 @@ template = "page.html"
 
 ##### main releases
 
+- <a href="https://mortuairebdx.bandcamp.com/album/monde-vide">Monde Vide (2025)</a>
 - <a href="https://mortuairebdx.bandcamp.com/album/ep-i">EP I (2022)</a>
 
 
@@ -80,26 +81,6 @@ template = "page.html"
 
 </section>
 
-<section>
-
-#### SPECTRALE
-
-<img src="https://f4.bcbits.com/img/a3662692198_16.jpg"/>
-
-<p>Guitar & synths since 2017.</p>
-
-<a href="mailto:spectraleacoustic@gmail.com">email</a> &#x2022;
-<a href="https://spectrale.bandcamp.com/">bandcamp</a> &#x2022;
-<a href="https://www.instagram.com/spectraleband/">instagram</a> &#x2022;
-<a href="https://www.facebook.com/spectrale.bx/">facebook</a>
-
-##### releases I contributed to
-
-- <a href="https://spectrale.bandcamp.com/album/arcanes">Arcanes (2020)</a>
-
-
-</section>
-
 <hr/>
 
 ### past projects
@@ -121,6 +102,26 @@ template = "page.html"
 - <a href="https://thegreatoldones.bandcamp.com/album/eod-a-tale-of-dark-legacy">EOD: A Tale of Dark Legacy (2017)</a>
 - <a href="https://thegreatoldones.bandcamp.com/album/tekeli-li">Tekeli-li (2014)</a>
 - <a href="https://thegreatoldones.bandcamp.com/album/al-azif">Al Azif (2012)</a>
+
+
+</section>
+
+<section>
+
+#### SPECTRALE
+
+<img src="https://f4.bcbits.com/img/a3662692198_16.jpg"/>
+
+<p>Guitar & synths since 2017.</p>
+
+<a href="mailto:spectraleacoustic@gmail.com">email</a> &#x2022;
+<a href="https://spectrale.bandcamp.com/">bandcamp</a> &#x2022;
+<a href="https://www.instagram.com/spectraleband/">instagram</a> &#x2022;
+<a href="https://www.facebook.com/spectrale.bx/">facebook</a>
+
+##### releases I contributed to
+
+- <a href="https://spectrale.bandcamp.com/album/arcanes">Arcanes (2020)</a>
 
 
 </section>
