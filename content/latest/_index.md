@@ -1,3 +1,3 @@
 +++
-redirect_to="/blog/2024-02-03-bandcamp-alternatives-in-2024"
+redirect_to="/blog/2025-03-07-new-mortuaire-lp-monde-vide"
 +++
