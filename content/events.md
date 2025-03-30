@@ -9,8 +9,11 @@ template = "page.html"
 
 ### upcoming
 
-
+- 2025-04-16 **Bordeaux, FR** (Birtawil) <br/> <sup><sub>*@ RedCat w/ Violent Shogun, Stufflands*</sub></sup>
+- 2025-04-23 **Paris, FR** (Birtawil) <br/> <sup><sub>*@ Private Show w/ Bank Myna*</sub></sup>
+- 2025-04-25 **Jena, GER** (Birtawil) <br/> <sup><sub>*@ KuBa w/ Bank Myna*</sub></sup>
 - 2025-04-26 **Münster, GER** (Birtawil) <br/> <sup><sub>*@ Culthe Fest 2025 w/ Ahab, Der Weg einer Freiheit, Bank Myna...*</sub></sup>
+- 2025-04-27 **Aachen, GER** (Birtawil) <br/> <sup><sub>*@ AZ Aachen w/ Bank Myna*</sub></sup>
 - 2025-05-31 **Ghent, BE** (Year Of No Light*) <br/> <sup><sub>*@ Dunk! Festival 2025 w/ Mogwai, Cult Of Luna...*</sub></sup>
 
 <br/>
