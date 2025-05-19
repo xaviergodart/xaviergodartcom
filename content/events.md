@@ -71,7 +71,7 @@ template = "page.html"
 - 2019-04-22 **Liège, BEL** (Spectrale) <br/> <sup><sub>*@ La Zone w/ Woods of Yore*</sup></sub>
 - 2019-04-21 **Münster, GER** (Spectrale) <br/> <sup><sub>*@ Culthe Fest 2019*</sup></sub>
 - 2019-04-20 **Münster, GER** (Spectrale) <br/> <sup><sub>*@ Culthe Fest 2019*</sup></sub>
-- 2019-01-26 **Bordeaux, FR** (Spectrale) <br/> <sup><sub>*@ L'Antidote w/ Barnabé Joubert + B.qua.Sin + Ancient Silent Arena*</sup></sub>
+- 2019-01-26 **Bordeaux, FR** (Birtawil) <br/> <sup><sub>*@ L'Antidote w/ Barnabé Joubert + B.qua.Sin + Ancient Silent Arena*</sup></sub>
 
 
 #### 2018
@@ -124,7 +124,7 @@ template = "page.html"
 - 2016-03-15 **Frankfurt, GER** (The Great Old Ones) <br/> <sup><sub>*@ Das Bett w/ Der Weg einer Freiheit , Harakiri for the Sky*</sup></sub>
 - 2016-03-14 **Weinheim, GER** (The Great Old Ones) <br/> <sup><sub>*@ Café Central w/ Der Weg einer Freiheit , Harakiri for the Sky*</sup></sub>
 - 2016-03-13 **Antwerp, BE** (The Great Old Ones) <br/> <sup><sub>*@ Kavka w/ Der Weg einer Freiheit , Harakiri for the Sky*</sup></sub>
-- 2016-03-12 **Camden, UK** (The Great Old Ones) <br/> <sup><sub>*@ Our Black Heart w/ Der Weg einer Freiheit , Harakiri for the Sky*</sup></sub>
+- 2016-03-12 **London, UK** (The Great Old Ones) <br/> <sup><sub>*@ Our Black Heart w/ Der Weg einer Freiheit , Harakiri for the Sky*</sup></sub>
 - 2016-03-11 **Münster, GER** (The Great Old Ones) <br/> <sup><sub>*@ Gleis 22 w/ Der Weg einer Freiheit , Harakiri for the Sky*</sup></sub>
 
 #### 2015
