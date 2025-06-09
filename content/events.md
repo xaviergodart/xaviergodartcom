@@ -9,7 +9,7 @@ template = "page.html"
 
 ### upcoming
 
-- 2025-06-06 **Bordeaux, FR** (Mortuaire) <br/> <sup><sub>*@ The Black Cat Pub w/ Dionysiaque, Abhorrent Execration*</sup></sub>
+No upcoming events.
 
 <br/>
 
@@ -17,6 +17,7 @@ template = "page.html"
 
 #### 2025
 
+- 2025-06-06 **Bordeaux, FR** (Mortuaire) <br/> <sup><sub>*@ The Black Cat Pub w/ Dionysiaque, Abhorrent Execration*</sup></sub>
 - 2025-05-31 **Ghent, BE** (Year Of No Light*) <br/> <sup><sub>*@ Dunk! Festival 2025 w/ Mogwai, Cult Of Luna...*</sub></sup>
 - 2025-05-30 **Reims, FR** (Year Of No Light*) <br/> <sup><sub>*@ Le Temps des Cerises w/ Jessica93, Cerbère...*</sub></sup>
 - 2025-04-27 **Aachen, GER** (Birtawil) <br/> <sup><sub>*@ AZ Aachen w/ Bank Myna*</sub></sup>
