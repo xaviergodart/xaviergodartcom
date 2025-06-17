@@ -9,7 +9,7 @@ template = "page.html"
 
 ### upcoming
 
-No upcoming events.
+- 2025-08-16 **Alba Iulia, RO** (Year Of No Light*) <br/> <sup><sub>*@ Dark Bombastic Evening 2025*</sup></sub>
 
 <br/>
 
