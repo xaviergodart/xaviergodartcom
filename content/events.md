@@ -12,6 +12,7 @@ template = "page.html"
 - 2025-08-13 **Bristol, UK** (Year Of No Light*) <br/> <sup><sub>*@ ArcTanGent Festival 2025*</sup></sub>
 - 2025-08-14 **Carhaix, FR** (Year Of No Light*) <br/> <sup><sub>*@ Motocultor Festival 2025*</sup></sub>
 - 2025-08-16 **Alba Iulia, RO** (Year Of No Light*) <br/> <sup><sub>*@ Dark Bombastic Evening 2025*</sup></sub>
+- 2025-09-20 **Le Haillan, FR** (Birtawil) <br/> <sup><sub>*@ Salem w/ Bank Myna, Suif*</sup></sub>
 
 <br/>
 
