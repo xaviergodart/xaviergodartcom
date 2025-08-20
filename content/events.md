@@ -9,9 +9,6 @@ template = "page.html"
 
 ### upcoming
 
-- 2025-08-13 **Bristol, UK** (Year Of No Light*) <br/> <sup><sub>*@ ArcTanGent Festival 2025*</sup></sub>
-- 2025-08-14 **Carhaix, FR** (Year Of No Light*) <br/> <sup><sub>*@ Motocultor Festival 2025*</sup></sub>
-- 2025-08-16 **Alba Iulia, RO** (Year Of No Light*) <br/> <sup><sub>*@ Dark Bombastic Evening 2025*</sup></sub>
 - 2025-09-20 **Le Haillan, FR** (Birtawil) <br/> <sup><sub>*@ Salem w/ Bank Myna, Suif*</sup></sub>
 
 <br/>
@@ -20,6 +17,9 @@ template = "page.html"
 
 #### 2025
 
+- 2025-08-16 **Alba Iulia, RO** (Year Of No Light*) <br/> <sup><sub>*@ Dark Bombastic Evening 2025*</sup></sub>
+- 2025-08-14 **Carhaix, FR** (Year Of No Light*) <br/> <sup><sub>*@ Motocultor Festival 2025*</sup></sub>
+- 2025-08-13 **Bristol, UK** (Year Of No Light*) <br/> <sup><sub>*@ ArcTanGent Festival 2025*</sup></sub>
 - 2025-06-06 **Bordeaux, FR** (Mortuaire) <br/> <sup><sub>*@ The Black Cat Pub w/ Dionysiaque, Abhorrent Execration*</sup></sub>
 - 2025-05-31 **Ghent, BE** (Year Of No Light*) <br/> <sup><sub>*@ Dunk! Festival 2025 w/ Mogwai, Cult Of Luna...*</sub></sup>
 - 2025-05-30 **Reims, FR** (Year Of No Light*) <br/> <sup><sub>*@ Le Temps des Cerises w/ Jessica93, Cerbère...*</sub></sup>
