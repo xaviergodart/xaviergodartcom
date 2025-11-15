@@ -11,7 +11,6 @@
         <link rel="manifest" href="site.webmanifest">
         <link rel="apple-touch-icon" href="icon.png">
         <link rel="stylesheet" href="https://unpkg.com/normalize.css">
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/concrete.css@2/concrete.min.css">
         <link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png">
         <link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png">
         {% block rss %}
@@ -20,23 +19,86 @@
         <meta name="theme-color" content="#ffffff">
         <script async src="https://analytics.umami.is/script.js" data-website-id="95b3a3f4-9a70-4ecf-a50b-0f3f4525c2f6"></script>
         <style>
-            * {
-                text-decoration-thickness: .1rem;
-            }
-            html {
-                line-height: 1.5;
-            }
             body {
-                font-family: "Courier New", Courier, monospace;
-            }
-            p, ul li, footer {
-                font-size: 1.5rem;
+                margin: 60px auto;
+                margin-bottom: 160px;
+                max-width:750px;
+                line-height:1.62;
+                font-family: 'Inconsolata', monospace;
+                background: #fff;
+                color:#000;
+                padding:0 30px;
             }
             header {
-                padding: 8rem 0;
+                display: flex;
+                align-items: center;
             }
-            h1, header, header p {
-                font-size: 1em;
+            h1, h2, h3 {
+                line-height: 1.2;
+                padding-top: 18px;
+                margin-bottom: 30px;
+                font-weight: normal;
+            }
+            h1.post {
+                margin-bottom: 10px;
+            }
+            nav {
+                margin-left: 16px;
+            }
+            a:hover {
+                padding: 4px;
+                margin: -4px;
+                color: #fff;
+                background: #000;
+                text-decoration: none;
+            }
+            a {
+                color: #000;
+                text-decoration: none;
+                border-bottom: 1px solid #000;
+            }
+            nav > a {
+                border: none;
+            }
+            ol {
+                list-style-type: decimal-leading-zero;
+            }
+            img {
+                margin: 32px auto;
+                display: block;
+                max-width: 70%;
+                height: auto;
+            }
+            hr {
+                margin: 64px 0;
+            }
+            pre {
+                display: inline;
+            }
+            a.logo {
+                width: 160px;
+                height: 160px;
+                background: #000 url("/images/logo.png");
+                background-size: 160px 160px;
+                display: block;
+                border: 0;
+            }
+            a.logo:hover {
+                padding: 0;
+                margin: 0;
+                background: #000 url("/images/logo.png");
+                background-size: auto;
+                background-size: 160px 160px;
+                filter: grayscale(100%) contrast(180%);
+            }
+            .btn-full button {
+                background: none;
+                border: none;
+            }
+            .date {
+                margin-bottom: 30px;
+                margin-top: -8px;
+                display: inline-block;
             }
             .center {
                 text-align: center;
@@ -50,13 +112,6 @@
             .inline {
                 display: inline;
             }
-            .mb-0 {
-                margin-bottom: 0;
-                padding-bottom: 0;
-            }
-            .mr-2 {
-                margin-right: 8px;
-            }
             .f {
                 display: flex;
                 align-items: baseline;
@@ -64,12 +119,6 @@
             footer {
                 padding-bottom: 8rem;
                 text-align: left;
-            }
-            a.post {
-                text-decoration: none;
-            }
-            a.post:hover {
-                text-decoration: underline;
             }
             a.btn-full {
                 display: block;
@@ -83,31 +132,24 @@
     <body>
         <main>
             {% block header %}
-            <header class="mb-0">
-                <h1 class="mb-0">
-                    <span onclick="audioCtx.resume(); this.style.display = 'none'; this.nextElementSibling.style.display='inline';" style="cursor: pointer;">▶</span>
-                    <span onclick="audioCtx.suspend(); this.style.display = 'none'; this.previousElementSibling.style.display='inline'" style="display: none; cursor: pointer;">◼</span>
-                    xavier godart
-                </h1> <span class="small">music, art & software - <a href="https://www.google.fr/maps?hl=fr&q=Bordeaux,+France&ie=UTF8&hq&hnear=Bordeaux,+Gironde,+Aquitaine&gl=fr&t=h&z=12">Bordeaux, France</a>.</span>
-                <p>
-                    <a href="/">blog</a> &#x2022;
-                    <a href="/music">music</a> &#x2022;
-                    <a href="/events">events</a> &#x2022;
-                    <a href="/software-engineering">software</a>
-                </p>
+            <header>
+                <a href="/" title="Xavier Godart" class="logo"></a>
+                <nav>
+                    <ol>
+                        <li>
+                            <span onclick="audioCtx.resume(); this.style.display = 'none'; this.nextElementSibling.style.display='inline';" style="cursor: pointer;">⏵</span>
+                            <span onclick="audioCtx.suspend(); this.style.display = 'none'; this.previousElementSibling.style.display='inline'" style="display: none; cursor: pointer;">⏹</span>
+                        </li>
+                        <li><a href="/">blog</a></li>
+                        <li><a href="/music">music</a></li>
+                        <li><a href="/events">events</a></li>
+                        <li><a href="/software-engineering">software</a></li>
+                        <li><a href="/about">about</a></li>
+                    </ol>
+                </nav>
             </header>
             {% endblock %}
             {% block content %} {% endblock %}
-            {% block footer %}
-            <footer>
-                contact &#x2022;
-                <a href="mailto:xgodart@gmail.com">email</a> &#x2022;
-                <a href="https://www.instagram.com/xaviergodart/">instagram</a> &#x2022;
-                <a href="https://bsky.app/profile/xvrgdrt.bsky.social">bluesky</a> &#x2022;
-                <a href="https://www.linkedin.com/in/xaviergodart/">linkedin</a> &#x2022;
-                <a href="https://github.com/xaviergodart">github</a>
-            </footer>
-            {% endblock %}
         </main>
         <script src="/ambience.js"></script>
         <script type="text/javascript">

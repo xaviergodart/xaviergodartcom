@@ -1,14 +1,12 @@
-{% extends "base.html" %}
-{% block content %}
+{% extends "base.html" %} {% block content %}
 <section>
-	<h2>blog</h2>
-	<a href="/atom.xml"><button>rss</button></a>
-	{% set section = get_section(path="blog/_index.md") %}
-	{% for page in section.pages %}
-	  <p class="f">
-	    <span class="small quiet mr-2">{{ page.date }}</span>
-	    <a class="post" href="{{ page.permalink | safe }}">{{ page.title }}</a>
-	  </p>
-	{% endfor %}
+    <h1>Blog</h1>
+    {% set section = get_section(path="blog/_index.md") %} {% for page in
+    section.pages %}
+    <div>
+        <span>{{ page.date }}</span> -
+        <a href="{{ page.permalink | safe }}">{{ page.title }}</a>
+    </div>
+    {% endfor %}
 </section>
 {% endblock content %}

@@ -1,18 +1,41 @@
 +++
-title = "software engineering"
+title = "Software"
 slug = "software-engineering"
 template = "page.html"
 +++
 
-> *My full resume is available **[here](/resume)**.*
 <section>
 
-In addition to being a musician, I'm also a **full-time software engineer** since 2009. I've been mainly working in the music industry for the last 10 years and I currently work at [Deezer](https://www.deezer.com).
+I'm a **software engineer** since 2009.
 
-You can find more about my professional endeavors on [linkedin](https://www.linkedin.com/in/xaviergodart/).
+I create a collection of tools for making music in the command line under the name of [**emprcl**](https://empr.cl/).
 
-And I sometimes work on personal projects which are available on [github](https://github.com/xaviergodart).
+I work on personal projects which are available on [**github**](https://github.com/xaviergodart).
 
-I create a collection of tools for making music in the command line under the name of [emprcl](https://empr.cl/).
+<br/>
+
+## Runal
+
+[**Runal**](https://empr.cl/runal/) is a text-based creative coding environment, that runs in the terminal.
+
+It works similarly as processing or p5js but it does all the rendering as text. It can either be programmed with JavaScript, or used as a Go package.
+
+![Runal](https://empr.cl/images/runal/screenshot.png)
+
+<br/>
+
+## Signls
+
+[**Signls**](https://empr.cl/signls/) is a non-linear, generative MIDI sequencer designed for music composition and live performances, all within the terminal.
+
+![Signls](https://raw.githubusercontent.com/emprcl/signls/main/docs/screenshot.png)
+
+<br/>
+
+## Sektron
+
+[**Sektron**](https://empr.cl/sektron/) is a midi step sequencer, made with live performance in mind, that runs in the terminal (TUI).
+
+![Sektron](https://raw.githubusercontent.com/emprcl/sektron/refs/heads/main/docs/screenshot.png)
 
 </section>

@@ -1,21 +1,22 @@
 +++
-title = "events"
+title = "Events"
 slug = "events"
 template = "page.html"
 +++
 <section>
 
-<sup>*Bands, projects or talks for each date are between parenthesis `()`.<br/>Projects with `*` are fill-ins, one-off collabs or ephemeral projects.*</sup>
+ 1. <pre>( )</pre> → <i>bands, projects or talks</i>
+ 2. <pre> * </pre> → <i>fill-ins, one-off collabs or ephemeral projects</i>
 
-### upcoming
+## Upcoming
 
 No upcoming events.
 
 <br/>
 
-### past
+## Past
 
-#### 2025
+### 2025
 
 - 2025-09-20 **Le Haillan, FR** (Birtawil) <br/> <sup><sub>*@ Salem w/ Bank Myna, Suif*</sup></sub>
 - 2025-08-16 **Alba Iulia, RO** (Year Of No Light*) <br/> <sup><sub>*@ Dark Bombastic Evening 2025*</sup></sub>
@@ -30,7 +31,7 @@ No upcoming events.
 - 2025-04-23 **Paris, FR** (Birtawil) <br/> <sup><sub>*@ Ecole des Beaux-Arts w/ Bank Myna*</sub></sup>
 - 2025-04-16 **Bordeaux, FR** (Birtawil) <br/> <sup><sub>*@ RedCat w/ Violent Shogun, Stuffland*</sub></sup>
 
-#### 2024
+### 2024
 
 - 2024-10-12 **Montpellier, FR** (Year Of No Light*) <br/> <sup><sub>*@ Victoire 2 w/ Violence, Citrus, Cavalerie*</sub></sup>
 - 2024-10-11 **Tulle, FR** (Year Of No Light*) <br/> <sup><sub>*@ Des Lendemains Qui Chantent w/ Lizzard, Klone*</sub></sup>
@@ -39,7 +40,7 @@ No upcoming events.
 - 2024-06-12 **Le Haillan, FR** (Mortuaire) <br/> <sup><sub>*@ Salem w/ Fange, Contre-Feux, The Veil Of Uncertainty*</sup></sub>
 - 2024-03-02 **Le Haillan, FR** (Mortuaire) <br/> <sup><sub>*@ Salem w/ Sorcerer, Cohesion, Unsafe*</sup></sub>
 
-#### 2023
+### 2023
 
 - 2023-11-01 **Bordeaux, FR** (Mortuaire) <br/> <sup><sub>*@ L'Antidote w/ Sordide*</sup></sub>
 - 2023-09-14 **Bordeaux, FR** (Talk) <br/> <sup><sub>*@ Deezer Bordeaux / [playground #1 meetup](@/blog/20230823.md)*</sup></sub>
@@ -48,7 +49,7 @@ No upcoming events.
 - 2023-06-23 **Lisle, FR** (Year Of No Light*) <br/> <sup><sub>*@ Lisle Sauvage Festival*</sup></sub>
 - 2023-05-11 **Bordeaux, FR** (Mortuaire) <br/> <sup><sub>*@ Krakatoa w/ Regarde Les Hommes Tomber*</sup></sub>
 
-#### 2022
+### 2022
 
 - 2022-11-30 **Bordeaux, FR** (Mortuaire) <br/> <sup><sub>*@ Athénée Libertaire w/ Iffernet, Ghettö*</sup></sub>
 - 2022-10-22 **Bordeaux, FR** (Birtawil) <br/> <sup><sub>*@ Pourquoi Pas ? w/ Ilúnae*</sup></sub>
@@ -57,16 +58,16 @@ No upcoming events.
 - 2022-04-21 **Tilburg, NL** (Year Of No Light*) <br/> <sup><sub>*@ Roadburn Festival*</sup></sub>
 - 2022-03-18 **Bordeaux, FR** (Year Of No Light*) <br/> <sup><sub>*@ Krakatoa w/ BRUIT ≤*</sup></sub>
 
-#### 2021
+### 2021
 
 - 2021-11-19 **Bordeaux, FR** (Birtawil) <br/> <sup><sub>*@ Le Fiacre w/ PALECOAL + Jeff*</sup></sub>
 
-#### 2020
+### 2020
 
 - 2020-03-07 **Denain, FR** (Spectrale) <br/> <sup><sub>*@ In Theatrum Denonium - Acte V w/ Saor, Sulphur Aeon, Borgne, Carach Angren*</sup></sub>
 - 2020-01-24 **Bordeaux, FR** (LAVA) <br/> <sup><sub>*@La Voûte w/ Processi0ns + Poignard Morose*</sup></sub>
 
-#### 2019
+### 2019
 
 - 2019-12-13 **Nantes, FR** (Spectrale) <br/> <sup><sub>*@ Black Metal Night V, Le Ferrailleur w/ Pénitence Onirique, Mur, Numen*</sup></sub>
 - 2019-10-24 **Bordeaux, FR** (Birtawil) <br/> <sup><sub>*@ La Voûte w/ Louis Jucker ft. Coilguns*</sup></sub>
@@ -79,7 +80,7 @@ No upcoming events.
 - 2019-01-26 **Bordeaux, FR** (Birtawil) <br/> <sup><sub>*@ L'Antidote w/ Barnabé Joubert + B.qua.Sin + Ancient Silent Arena*</sup></sub>
 
 
-#### 2018
+### 2018
 
 - 2018-11-10 **Bordeaux, FR** (Birtawil) <br/> <sup><sub>*@ L'Antidote w/ Endless Flood + Hidden in Eternity*</sup></sub>
 - 2018-10-26 **Bordeaux, FR** (Mike Brat*) <br/> <sup><sub>*@ L'Antidote w/ Sam haven*</sup></sub>
@@ -95,7 +96,7 @@ No upcoming events.
 - 2018-01-04 **Bordeaux, FR** (Suspicion d'ébola*) <br/> <sup><sub>*@ L'Antidote w/ ASCH-LAUW + DEAD TOYS + BIZNESS DE LA MISERE*</sup></sub>
 
 
-#### 2017
+### 2017
 
 - 2017-11-22 **Bordeaux, FR** (Birtawil) <br/> <sup><sub>*@ La Voûte w/ Amundsen + DuPlafond*</sup></sub>
 - 2017-10-14 **Bordeaux, FR** (YesYes*) <br/> <sup><sub>*@ L'Antidote w/ BizMiz + Austern*</sup></sub>
@@ -104,7 +105,7 @@ No upcoming events.
 - 2017-06-10 **Bordeaux, FR** (Birtawil) <br/> <sup><sub>*@ Espace 29, Somnium #2*</sup></sub>
 - 2017-05-27 **Bordeaux, FR** (Birtawil) <br/> <sup><sub>*@ Espace 29, Atypisme #2 w/ Plimplim*</sup></sub>
 
-#### 2016
+### 2016
 
 - 2016-12-10 **Bordeaux, FR** (Birtawil) <br/> <sup><sub>*@ Espace 29, Somnium #1*</sup></sub>
 - 2016-05-08 **Querrien, FR** (The Great Old Ones) <br/> <sup><sub>*@ Les Feux de Beltane 2016*</sup></sub>
@@ -132,7 +133,7 @@ No upcoming events.
 - 2016-03-12 **London, UK** (The Great Old Ones) <br/> <sup><sub>*@ Our Black Heart w/ Der Weg einer Freiheit , Harakiri for the Sky*</sup></sub>
 - 2016-03-11 **Münster, GER** (The Great Old Ones) <br/> <sup><sub>*@ Gleis 22 w/ Der Weg einer Freiheit , Harakiri for the Sky*</sup></sub>
 
-#### 2015
+### 2015
 
 - 2015-11-28 **Leeuwarden, NL** (The Great Old Ones) <br/> <sup><sub>*@ INTO DARKNESS FESTIVAL 2015*</sup></sub>
 - 2015-11-27 **Le Havre, FR** (The Great Old Ones) <br/> <sup><sub>*@ Mc Daid's w/ Sordide*</sup></sub>
@@ -158,7 +159,7 @@ No upcoming events.
 - 2015-03-17 **Bristol, UK** (The Great Old Ones) <br/> <sup><sub>*@ The Stag and Hounds w/ CARCINOMA*</sup></sub>
 - 2015-03-16 **Lille, FR** (The Great Old Ones) <br/> <sup><sub>*@ Midland w/ Letters Written On Dead Leaves, SunStare*</sup></sub>
 
-#### 2014
+### 2014
 
 - 2014-12-15 **Savigny Le Temple, FR** (The Great Old Ones) <br/> <sup><sub>*@ L'Empreinte w/ Behemoth*</sup></sub>
 - 2014-12-14 **Lille, FR** (The Great Old Ones) <br/> <sup><sub>*@ L'Aéronef w/ Behemoth, Bliss Of Flesh*</sup></sub>
@@ -177,7 +178,7 @@ No upcoming events.
 - 2014-04-10 **Tilburg, NL** (The Great Old Ones) <br/> <sup><sub>*@ Roadburn Festival 2014*</sup></sub>
 - 2014-04-09 **Lille, FR** (The Great Old Ones) <br/> <sup><sub>*@ Midland w/ Regarde Les Hommes Tomber*</sup></sub>
 
-#### 2013
+### 2013
 
 - 2013-12-15 **London, UK** (The Great Old Ones) <br/> <sup><sub>*@ The Garage w/ Doom Over London Iv Ft Worship, Worship, My Silent Wake*</sup></sub>
 - 2013-11-01 **Hendaye, FR** (The Great Old Ones) <br/> <sup><sub>*@ Metal'O'Ween IV 2013*</sup></sub>
@@ -190,7 +191,7 @@ No upcoming events.
 - 2013-01-06 **Manchester, UK** (The Great Old Ones) <br/> <sup><sub>*@ Kraak Gallery w/ Terzij De Horde, Wode*</sup></sub>
 - 2013-01-05 **London, UK** (The Great Old Ones) <br/> <sup><sub>*@ Unicorn Camden w/ Terzij De Horde, Oblivionized*</sup></sub>
 
-#### 2012
+### 2012
 
 - 2012-12-18 **Zürich, CH** (The Great Old Ones) <br/> <sup><sub>*@ Werk21 w/ Make A Change... Kill Yourself*</sup></sub>
 - 2012-12-17 **Paris, FR** (The Great Old Ones) <br/> <sup><sub>*@ Le Klub w/ Make A Change... Kill Yourself*</sup></sub>
@@ -204,7 +205,7 @@ No upcoming events.
 - 2012-05-20 **Bordeaux, FR** (The Great Old Ones) <br/> <sup><sub>*@ Heretic Club w/ Miasmal*</sup></sub>
 - 2012-04-07 **Bordeaux, FR** (The Great Old Ones) <br/> <sup><sub>*@ L'antidote Bordeaux w/ Arms of Ra*</sup></sub>
 
-#### 2011
+### 2011
 
 - 2011-10-06 **Bordeaux, FR** (The Great Old Ones) <br/> <sup><sub>*@ Heretic Club w/ Acephalix*</sup></sub>
 - 2011-09-23 **Bordeaux, FR** (The Great Old Ones) <br/> <sup><sub>*@ Heretic Club w/ Nephalokia, Cenesthesie, Overcharger*</sup></sub>

@@ -6,6 +6,10 @@ template = "resume.html"
 
 <section>
 
+[Email](mailto:xgodart@gmail.com) &#x2022; [Github](https://github.com/xaviergodart) &#x2022; [LinkedIn](https://www.linkedin.com/in/xaviergodart/)
+
+<br/>
+
 I'm a **software engineer** since 2009, with an appetence for **backend development** and **audio development**.
 
 I build **performant** and **scalable** applications using **Golang**, **PHP** or **Python**. And I'm inclined to keep learning.
@@ -20,15 +24,21 @@ I've been mainly working in the **music industry** for the last 10 years.
 
 <br/>
 
-[email](mailto:xgodart@gmail.com) &#x2022; [github](https://github.com/xaviergodart) &#x2022; [linkedin](https://www.linkedin.com/in/xaviergodart/)
 
 </section>
 
 <section>
 
-### main experiences
+### Main Experiences
 
-  - 2021 - now | **Senior Backend Engineer @ [Deezer](https://www.deezer.com)** | Bordeaux
+  - 2025 - now | **Senior Software Engineer @ [Stoïk](https://www.stoik.com)** | Bordeaux (Remote)
+    - Worked in a team of ~12 people
+    - Worked on cyber-security tools
+    - *Tech stack: Go, PostgreSQL, AWS, Terraform, Kubernetes, Github Actions*
+
+<br/>
+
+  - 2021 - 2025 | **Senior Backend Engineer @ [Deezer](https://www.deezer.com)** | Bordeaux
     - Worked in a team of ~30 people
     - Launched 2 new apps: *Audiobooks by Deezer* (abandoned) and *[Zen by Deezer](https://zen-deezer.com/)*
     - *Tech stack: Go, Python, MySQL, Redis, GCP, Terraform, Jenkins*
