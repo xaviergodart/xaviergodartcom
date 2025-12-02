@@ -22,7 +22,7 @@ template = "links.html"
   <a href="https://vimeo.com/birtawil">vimeo</a>
 </p>
 
-<img style="max-width: 100%;" src="https://f4.bcbits.com/img/0041686518_20.jpg"/>
+<img style="max-width: 100%;" src="https://f4.bcbits.com/img/0041877882_20.jpg"/>
 
 
 </section>
