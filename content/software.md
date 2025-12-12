@@ -1,14 +1,15 @@
 +++
 title = "Software"
-slug = "software-engineering"
+slug = "software"
 template = "page.html"
+aliases = ["/software-engineering"]
 +++
 
 <section>
 
 I'm a **software engineer** since 2009.
 
-I create a collection of tools for making music in the command line under the name of [**emprcl**](https://empr.cl/).
+I create a collection of tools for making music and visuals in the command line under the name of [**emprcl**](https://empr.cl/).
 
 I work on personal projects which are available on [**github**](https://github.com/xaviergodart).
 
