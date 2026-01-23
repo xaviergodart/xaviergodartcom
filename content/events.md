@@ -10,7 +10,7 @@ template = "page.html"
 
 ## Upcoming
 
-No upcoming events.
+- 2026-02-27 **Bordeaux, FR** (Mortuaire) <br/> <sup><sub>*@ RedCat w/ Bocc, Narcopsychosis Terror*</sub></sup>
 
 <br/>
 
