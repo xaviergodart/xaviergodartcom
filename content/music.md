@@ -18,20 +18,20 @@ template = "page.html"
 
 <p>Solo project since 2013. The style evolved, going from minimal drone / ambient in the early days, to more experimental and electronic recently.</p>
 
-<p>14 releases since 2013, including EPs and live recordings.</p>
+<p>15 releases since 2013, including EPs and live recordings.</p>
 
-<img src="https://f4.bcbits.com/img/a3110579184_10.jpg"/>
+<img src="https://f4.bcbits.com/img/a1924574379_10.jpg"/>
 
 <a href="mailto:birtawilmusic@gmail.com">email</a> &#x2022;
 <a href="/birtawil">streaming platforms</a> &#x2022;
 <a href="https://www.instagram.com/birtawilmusic/">instagram</a> &#x2022;
 <a href="https://www.facebook.com/birtawilmusic/">facebook</a> &#x2022;
-<a href="https://www.youtube.com/channel/UCZxV1UJ_rviJ0alhXSOIbuQ">youtube</a> &#x2022;
-<a href="https://vimeo.com/birtawil">vimeo</a>
+<a href="https://www.youtube.com/channel/UCZxV1UJ_rviJ0alhXSOIbuQ">youtube</a>
 
 
 #### Releases
 
+- <a href="https://birtawil.bandcamp.com/album/dua-min">DUA MIN (2026)</a>
 - <a href="https://birtawil.bandcamp.com/album/oll">ĦOLL (2022)</a>
 - <a href="https://birtawil.bandcamp.com/album/sonra">Sonra (2019)</a>
 - <a href="https://birtawil.bandcamp.com/album/inodarika">Inodarika (2017)</a>
