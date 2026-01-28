@@ -18,7 +18,7 @@ template = "links.html"
   <a href="mailto:birtawilmusic@gmail.com">email</a> &#x2022;
   <a href="https://www.instagram.com/birtawilmusic/">instagram</a> &#x2022;
   <a href="https://www.facebook.com/birtawilmusic/">facebook</a> &#x2022;
-  <a href="https://www.youtube.com/channel/UCZxV1UJ_rviJ0alhXSOIbuQ">youtube</a> &#x2022;
+  <a href="https://www.youtube.com/channel/UCZxV1UJ_rviJ0alhXSOIbuQ">youtube</a>
 </p>
 
 <img style="max-width: 100%;" src="https://f4.bcbits.com/img/0042473710_20.jpg"/>
