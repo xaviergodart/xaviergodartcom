@@ -1,3 +1,3 @@
 +++
-redirect_to="/blog/2025-03-07-new-mortuaire-lp-monde-vide"
+redirect_to="/blog/2026-01-30-new-birtawil-album-dua-min"
 +++
