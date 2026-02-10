@@ -10,7 +10,7 @@ template = "page.html"
 
 ## Upcoming
 
-- 2026-02-27 **Bordeaux, FR** (Mortuaire) <br/> <sup><sub>*@ RedCat w/ Bocc, Narcopsychosis Terror*</sub></sup>
+- 2026-06-06 **Nantes, FR** (Mortuaire) <br/> <sup><sub>*@ Le Ferrailleur (Frozen Fest 2026) w/ Agriculture, Pilori, Nidelgret, Faucheuse...*</sub></sup>
 
 <br/>
 
