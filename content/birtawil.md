@@ -6,6 +6,8 @@ template = "links.html"
 
 <section>
 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/iVrgGx9pELU?si=nNBOoqik7bd_wCV5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/LF12LuRcWo4?si=Y_snZNTaCgSj1gU3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <a class="btn-full" href="https://birtawil.bandcamp.com/" target="_blank">bandcamp</a>
